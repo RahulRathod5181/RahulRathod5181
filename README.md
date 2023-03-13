@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulrathod5181@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFb930muAk/xK_UeKzs3miFFq2HPY0ZMw/view?utm_content=DAFb930muAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFb930muAk/xK_UeKzs3miFFq2HPY0ZMw/view?utm_content=DAFb930muAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
