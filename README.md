@@ -12,8 +12,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul5181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul5181/" height="30" width="40" /></a>
+</p> -->
+<p> <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul5181/"
+" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \
+  <a href="https://rahulrathod5181.github.io/" target="text-decoration:none">
+   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
